@@ -1,0 +1,14 @@
+Metadata with group, sample_id, met_id, and date: 
+/workdir/qy236/apol_kidney/QC_output/group_sample_with_met_date.csv
+
+
+The count data that passed QC: 
+/workdir/qy236/apol_kidney/QC_output/APOL_urine_feature_counts_passComplexity.tsv
+
+
+DESeq full table comparison result of ABC vs DEF:
+/workdir/qy236/apol_kidney/QC_output/DESeq2_full_results_ABC_vs_DEF_with_symbols.tsv
+
+
+DESeq significant table comparison of ABC vs DEF (padj < 0.05, | log2fold change | > 0.5 *not > 1 here):
+/workdir/qy236/apol_kidney/QC_output/DESeq2_significant_genes_ABC_vs_DEF_padj0.05_LFC0.5.tsv
